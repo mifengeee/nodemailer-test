@@ -10,7 +10,7 @@ app.get("/sendMail",(req,res) => {
         secure:true,    //  安全的发送模式
         auth:{
             user:"719043997@qq.com", //  全局变量
-            pass:"syxchgapphllbedh"//  授权码
+            pass:"***********"//  授权码
         }
     })
     // 第二步
